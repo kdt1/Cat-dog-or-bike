@@ -1,4 +1,4 @@
-# Cat-dog-or-bike
+# Cat-dog-or-bike? Using CNN 
 
 Deep Learning: Assignment 1. Cat, Dog, Car or Bike?
 
